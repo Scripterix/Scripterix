@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scripterix
+- 👋 Hi, I’m Piotr Adamkowski aka Scripterix
 - 👀 I’m interested in programming JavaScript Angular and React
 - 🌱 I’m currently learning mid scope skills
 - 💞️ I’m looking to collaborate on project related to the JavaScript or TypeScript

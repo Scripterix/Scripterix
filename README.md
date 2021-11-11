@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mid scope skills
 - 💞️ I’m looking to collaborate on project related to the JavaScript or TypeScript
 - 📫 How to reach me https://opengateweb.com or contact@opengateweb.com
-- ✔️ Latest project https://opengateweb.com/angular12">Angular12
+- ✔️ Latest project https://opengateweb.com/angularv12" Angularv12
 
 <!---
 Scripterix/Scripterix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

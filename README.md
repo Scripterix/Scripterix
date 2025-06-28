@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on project related to the JavaScript or TypeScript
 - 📫 How to reach me https://opengateweb.com or kontakt@opengateweb.com
 - ✔️ Latest project https://opengateweb.com/
-- ✨ Check Portfolio https://opengateweb.com/porfolio/
+- ✨ Check Portfolio https://opengateweb.com/portfolio/
 
 <!---
 Scripterix/Scripterix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

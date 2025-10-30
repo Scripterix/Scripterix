@@ -2,9 +2,9 @@
 - 👀 I’m interested in programming JavaScript Angular and React
 - 🌱 I’m currently learning mid scope skills
 - 💞️ I’m looking to collaborate on project related to the JavaScript or TypeScript
-- 📫 How to reach me https://opengateweb.com or kontakt@opengateweb.com
-- ✔️ Latest project https://opengateweb.com/
-- ✨ Check Portfolio https://opengateweb.com/portfolio/
+- 📫 How to reach me https://scripterix.github.io or piotr.adamkowski@gmail.com
+- ✔️ Latest project [https://opengateweb.com/](https://scripterix.github.io)
+- ✨ Check Portfolio [https://scripterix.github.io/portfolio/](https://scripterix.github.io/portfolio)
 
 <!---
 Scripterix/Scripterix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
